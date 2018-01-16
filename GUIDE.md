@@ -1,10 +1,8 @@
-# Self-paced no-judgment learning for a productive semester break :D
+# Build and launch your personal website for free
 
 > ##### *this guide is brought to you by UM App Club, the tech community at University of Malaya, in Malaysia.*
 
-> This is **NOT** a machine-specific tutorial. You can be using Windows, Mac or Linux. 
-
-List of cool things for App Club students and tech enthusiasts to learn and/or build during semester break, plus their suggested learning roadmaps, curated by students. Sticking to these roadmap *will* definitely get you the result you want, but you're free to look up more resources online, too.
+This is a beginner level tutorial that'll help you get familiar with a number of important fundamentals in computer science as well as web development. 
 
 **Table of Contents**  
 
@@ -12,13 +10,25 @@ List of cool things for App Club students and tech enthusiasts to learn and/or b
 - [Learn Command Line](#learn-command-line)
 - [Learn Git](#learn-git)
 - [Project: Build and launch your personal website for free](#project-build-and-launch-your-personal-website-for-free)
-    - [Build a one-page website using HTML/CSS](build-a-one-page-website-using-html/css)
+    - [Build a one-page website using HTML/CSS](#build-a-one-page-website-using-htmlcss)
     - [Deploy your website to Netlify](#deploy-your-website-to-netlify)
     - [Get a free domain and more with GitHub Education Pack](#get-a-free-domain-and-more-with-github-education-pack)
     - [Add your custom domain to your netlify project](#add-your-custom-domain-to-your-netlify-project)
-- [More projects soon](#)
 
->Choice of `text editor`: I and almost all developers that I know use [VS Code](https://code.visualstudio.com/)
+
+
+**Text Editor**
+
+GUI-based:
+1. VS Code 💖
+2. Atom
+3. Sublime Text
+4. Webstorm (More of an IDE then text editor)
+
+Console-based:
+1. VIM 😎 (Only for those who want to reach Super Saiyan Level)
+2. Emacs
+3. Nano
 
 
 ### Learn `Command Line`
@@ -117,4 +127,3 @@ Follow the [step-by-step documentations](https://www.netlify.com/docs/custom-dom
 >If you have any questions, raise an issue. ([How?](https://help.github.com/articles/creating-an-issue/))
 
 
-## More projects soon
